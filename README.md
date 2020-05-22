@@ -5,12 +5,12 @@
 ## 常用命令
 |目录|  |
 |--------|--------|
-|[文件管理]()|touch、chmod、chown、cp、ln、mv、rm、cat、cut、less、find|
+|[文件管理]()|cp、ln、mv、rm、cat、cut、find、less、chmod、chown、touch|
 |[备份压缩]()|tar、gzip|
-|[文档编辑]()|sort、uniq、wc|
+|[文档编辑]()|wc、sort、uniq|
 |[系统管理]()|su、sudo、useradd、usermod、userdel|
-|[磁盘管理]()|pwd、cd、ls、mkdir、mount、umount|
-|[磁盘维护]()|fdisk、mkfs、mkswap|
+|[磁盘管理]()|cd、ls、pwd、mkdir、mount、umount|
+|[磁盘维护]()|mkfs、fdisk、mkswap|
 |[网络通信]()|ping|
 |[其他命令]()|
 |[文本编辑器]()|vim、nano|
