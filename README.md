@@ -5,7 +5,7 @@
 ## 常用命令
 |目录|  |
 |--------|--------|
-|[文件管理]()|cp、ln、mv、rm、cat、cut、find、less、chmod、chown、touch|
+|[文件管理](https://github.com/1023byte/Learning-Linux/blob/master/command/00.md)|cp、ln、mv、rm、cat、cut、find、less、chmod、chown、touch|
 |[备份压缩]()|tar、gzip|
 |[文档编辑]()|wc、sort、uniq|
 |[系统管理]()|su、sudo、useradd、usermod、userdel|
