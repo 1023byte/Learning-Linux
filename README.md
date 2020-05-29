@@ -9,7 +9,7 @@
 |[备份压缩]()|tar、gzip|
 |[文档编辑]()|wc、sort、uniq|
 |[系统管理]()|su、sudo、useradd、usermod、userdel|
-|[系统设置]()|rpm|
+|[系统设置](https://github.com/1023byte/Learning-Linux/blob/master/command/04.md)|rpm|
 |[磁盘管理]()|cd、ls、pwd、mkdir、mount、umount|
 |[磁盘维护]()|mkfs、fdisk、mkswap|
 |[网络通信]()|ping|
